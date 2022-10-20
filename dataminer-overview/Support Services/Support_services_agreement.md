@@ -193,6 +193,8 @@ User shall ensure that the certified employees are formally mandated for DataMin
 
 #### Customer success manager
 
+Evolve customers will have access to a customer success manager should they wish to engage in dedicated discussions to grow/enhance their platform. Typically beyond the scope of Support Services and a focus on user experience and satisfaction.
+
 A customer success manager from Skyline shall be at Users disposal to help User with any questions beyond the scope of Support Services and to help User to get the most out of the Software.
 
 #### Service Credits
