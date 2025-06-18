@@ -27,6 +27,7 @@ There are 3 types of skill level depending on your engagement:
 - Creator (gold level, as of 75 credits)
 
 A partner can obtain these levels based on business skills, technical skills, or both.
+The base discount applied are associated to the Partner level.
 
 ## Rewards
 
